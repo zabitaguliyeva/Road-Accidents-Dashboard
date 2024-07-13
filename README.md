@@ -36,3 +36,9 @@ You can download and explore the dashboard by clicking [Link to Dashboard](./Roa
 5. Data analysis by Pivot Tables and Excel Functions
 6. Data visualization to create charts and custom sheets to show the insights
 7. Report/Dashboard creation from start to end
+
+## Contact Information
+
+For any inquiries, you can reach me through:
+- LinkedIn: [Zabita Quliyeva](https://www.linkedin.com/in/zabita-quliyeva/)
+- Email: [zquliyeva6@std.beu.edu.az](mailto:zquliyeva6@std.beu.edu.az)
